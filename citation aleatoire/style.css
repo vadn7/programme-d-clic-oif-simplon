@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#auteur {
+
+/* width: 2px;
+height: 2px; */
+
+ background: gray;
+
+ border-left: 4px black solid; 
+
+ margin-left: 340px;
+
+ padding-left: 25px;
+
+ background: hsl(0, 0%, 50.2%);
+
+ 
+
+}
+
+
+#citation-card {
+
+width: 500px;
+
+border: 5px black solid;
+
+border-radius: 5px;
+
+background: hsl(40, 15%, 80.2%);
+
+}
+
+#whole-citation{
+
+background: hsl(40, 45%, 90%);
+
+/* background: hsl(40, 45%, 95%);  background: hsl(40, 55%, 85%);
+*/
+
+border: 1px solid black;
+
+padding: 10px;
+
+}
+
+#derniere-fois{
+
+color: blue;
+
+}
+
